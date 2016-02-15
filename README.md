@@ -1,7 +1,7 @@
 # Spring_transaction
 Spring transaction
 
-> 总结:
+####总结:
     Spring将事务管理分成了两类:
         *编程式事务管理:
             *手动编写代码进行事务管理.(很少使用).
